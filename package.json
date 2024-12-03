@@ -1,8 +1,8 @@
 {
   "name": "netstack",
-  "displayName": "Netstack",
+  "displayName": "Netstack Theme",
   "description": "VSCode theme inspired by Cyberpunk 2077",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -15,7 +15,9 @@
   "icon": "images/icon.png",
 	"keywords": [
 		"cyberpunk",
-		"cyberpunk 2077"
+		"cyberpunk 2077",
+    "cp2077",
+    "netstack"
 	],
   "categories": [
     "Themes"
