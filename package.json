@@ -2,23 +2,23 @@
   "name": "netstack",
   "displayName": "Netstack Theme",
   "description": "VSCode theme inspired by Cyberpunk 2077",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.0.0"
   },
-	"publisher": "euheimr",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/euheimr/netstack-theme-vscode"
-	},
-	"license": "MIT",
+  "publisher": "euheimr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/euheimr/netstack-theme-vscode"
+  },
+  "license": "MIT",
   "icon": "images/icon.png",
-	"keywords": [
-		"cyberpunk",
-		"cyberpunk 2077",
+  "keywords": [
+    "cyberpunk",
+    "cyberpunk 2077",
     "cp2077",
     "netstack"
-	],
+  ],
   "categories": [
     "Themes"
   ],
